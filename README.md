@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hi there 👋</div>  
+## <div align="center">Hi there 👋</div>  
 ### <div align="center">I am Kent, a self-taught full-stack developer 👨‍💻</div>  
   
 
@@ -78,11 +78,12 @@
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KomorebiSaw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=KomorebiSaw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KomorebiSaw&&style=flat-square" align="center" />
 </div>  
+-->
