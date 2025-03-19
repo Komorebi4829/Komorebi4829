@@ -1,19 +1,16 @@
 
 
 ## <div align="center">Hi there 👋</div>  
-### <div align="center">I am Kent, a self-taught full-stack developer 👨‍💻</div>  
+### <div align="center">I am Kent, a self-taught full-stack developer with many years of experience in web application development 👨‍💻</div>  
   
 
-- 🔭 I'm learning NestJS recently  
+- 🔭 Specialized in TypeScript full-stack development (NestJS + Next.js) and Python backend development (Django/FastAPI), actively seeking technical collaboration opportunities.
   
 
-- 🌱 Want to be an indie developer  
-  
+- 🌱 Led frontend development for a provincial-level nucleic acid testing mini-program during COVID-19, demonstrating technical leadership and social responsibility.
+ 
 
-- ❓ About the frontend and backend, we can communicate and make progress together  
-  
-
-- ⚡ A fact: I love to play minesweeper  
+- ⚡ A fact: I love to play Minesweeper and badminton.
   
 
   
